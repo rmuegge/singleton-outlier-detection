@@ -1,2 +1,2 @@
-This repository contains the relevant code for the paper "When Tobler’s First Law of Geography doesn’t hold: Identifying spatially outlying observations to remove their impact on estimated
-disease prevalence surfaces". 
+This repository contains the relevant code for the paper "When Tobler’s First Law of Geography doesn’t hold: Identifying spatially outlying observations to remove their impact on estimated disease prevalence surfaces". 
+The file "Simulation_study_Liverpool.R" contains the code for the simulation study from Section 5. The file "Application_asthma_England.R" contains the code for the application from Section 6.
