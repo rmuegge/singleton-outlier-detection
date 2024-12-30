@@ -135,6 +135,7 @@ while(tau<0.99){
   Asthma.Bdry$RDOS_context <- Asthma.Bdry$RDOS_context_new
 }
 
+saveRDS(Asthma.Bdry,"Asthma_Bdry_RDOS.rds")
 c #the scalar c takes on a value of 3.2
 
 #rank the data in decreasing order of RDOS
